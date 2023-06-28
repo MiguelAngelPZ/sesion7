@@ -20,7 +20,13 @@ nav ul li:hover {
   width: 500px;
   height: 500px;
   border: 1px solid brown;
-  background-color: black;
+  background-color: violet;
+}
+.container section div {
+  width: 300px;
+  height: 300px;
+  border: 2px solid yellow;
+  background-color: red;
 }
 
 /*# sourceMappingURL=main.css.map */
